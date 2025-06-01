@@ -1,2 +1,2 @@
-# us-air-quality-analysis-2023
-Data wrangling and geospatial visualization of 2023 U.S. air pollution using EPA and Kaggle datasets. Analyzes key pollutants and maps their distribution with Python and Tableau.
+# 📊🗺️ Mapping America’s Air: Wrangling 2023 EPA Pollution Data for Geospatial Insight
+This repository hosts the data analysis and geospatial visualization project for air pollution trends across the U.S. in 2023. It merges and cleans datasets from the EPA and Kaggle, explores key pollutants (ozone, carbon monoxide, sulfur dioxide, nitrogen dioxide), and visualizes geospatial distributions using Tableau and Python (Pandas). Ideal for data wrangling, geospatial analysis, and Tableau mapping enthusiasts!
